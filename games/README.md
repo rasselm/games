@@ -1,3 +1,11 @@
+COPY THESE FILES TO YOUR GO PATH AND START WEB SERVER
+Routes available
+http://localhost:9000/games
+
+http://localhost:9000/games/:gameid
+
+http://localhost:9000/games/report
+
 # Welcome to Revel
 
 A high-productivity web framework for the [Go language](http://www.golang.org/).
