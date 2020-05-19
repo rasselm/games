@@ -1,5 +1,10 @@
 COPY THESE FILES TO YOUR GO PATH AND START WEB SERVER
-Routes available
+
+GOLANG USING REVEL FRAMEWORK
+
+Routes available******
+
+
 http://localhost:9000/games
 
 http://localhost:9000/games/:gameid
